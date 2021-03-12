@@ -2,6 +2,12 @@
 
 I am Java/J2EE Senior Software Engineer, Proficient or familiar with a vast array of programming languages, concepts and technologies.
 
+## About me:
+
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cricketsamya)
+
+
+
 ## 👥 Social networks
 
 [![Sameer on LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/sameerkulkarni30/)
