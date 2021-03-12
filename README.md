@@ -4,8 +4,8 @@ I am Java/J2EE Senior Software Engineer, Proficient or familiar with a vast arra
 
 ## About me:
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cricketsamya)
-
+<summary>Contribution Stats</summary>
+<img align="left" alt="Sameer's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=cricketsamya" />
 
 
 ## 👥 Social networks
