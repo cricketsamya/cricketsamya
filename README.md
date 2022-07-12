@@ -6,6 +6,7 @@ I am Java/J2EE Senior Software Engineer, Proficient or familiar with a vast arra
 
 <img align="left" alt="Sameer's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=cricketsamya" />
 
+![Metrics](/github-metrics.svg)
 
 ## 👥 Social networks
 [![Sameer's Personal Space](https://img.shields.io/badge/Personal%20Space-orange?style=flat&logo=chainlink&labelColor=orange)](https://sameerkulkarni.de/)
