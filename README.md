@@ -16,6 +16,8 @@ I am Java/J2EE Senior Software Engineer, Proficient or familiar with a vast arra
 
 ## 🧰 Currently working with
 ![Java](https://img.shields.io/badge/-Java-0072b1?logo=Java&logoColor=FFFFF)
+![TypeScript](https://img.shields.io/badge/-Typescript-ff8d4e?logo=Typescript)
+![TypeScript](https://img.shields.io/badge/-NodeJS-ff8d4e?logo=NodeJS)
 ![Spring](https://img.shields.io/badge/-Spring-95ad9b?logo=Spring&logoColor=000000)
 ![Gradle](https://img.shields.io/badge/-Gradle-0fbcdb?logo=Gradle&logoColor=000000)
 ![Maven](https://img.shields.io/badge/-Maven-0fd641?logo=Maven&logoColor=000000)
