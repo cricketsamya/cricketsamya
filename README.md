@@ -12,7 +12,7 @@ I am Java/J2EE Senior Software Engineer, Proficient or familiar with a vast arra
 [![Sameer's Personal Space](https://img.shields.io/badge/Personal%20Space-orange?style=flat&logo=chainlink&labelColor=orange)](https://sameerkulkarni.de/)
 [![Sameer on LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/sameerkulkarni30/)
 [![Sameer on Xing](https://img.shields.io/badge/Xing-green?style=flat&logo=xing&labelColor=green)](https://www.xing.com/profile/Sameer_Kulkarni3/cv)
-[![Sameer on Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&labelColor=pink)](https://www.instagram.com/cricketsamya)
+[![Sameer on Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&labelColor=pink)](https://www.instagram.com/sameer_travelphotography)
 
 ## 🧰 Currently working with
 ![Java](https://img.shields.io/badge/-Java-0072b1?logo=Java&logoColor=FFFFF)
