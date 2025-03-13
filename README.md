@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Java/J2EE Senior Software Engineer, Proficient or familiar with a vast array of programming languages, concepts and technologies.
+I am Kotlin/Java/J2EE Senior Software Engineer, Proficient or familiar with a vast array of programming languages, concepts and technologies.
 
 ## About me:
 
