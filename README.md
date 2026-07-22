@@ -2,12 +2,6 @@
 
 I am Kotlin/Java/J2EE Senior Software Engineer, Proficient or familiar with a vast array of programming languages, concepts and technologies.
 
-## About me:
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cricketsamya?cardType=level&theme=yeblu&preferLogin=false)](https://git.io/awesome-stats-card)
-
-![Metrics](/github-metrics.svg)
-
 ## 👥 Social networks
 [![Sameer's Personal Space](https://img.shields.io/badge/Personal%20Space-orange?style=flat&logo=chainlink&labelColor=orange)](https://sameerkulkarni.de/)
 [![Sameer on LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/sameerkulkarni30/)
