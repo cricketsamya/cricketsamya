@@ -2,13 +2,13 @@
 
 Senior backend engineer in Berlin. Java and Kotlin, mostly Spring Boot, mostly on AWS.
 
-I've been building backend systems since 2012 — APIs, event-driven services, and the unglamorous plumbing underneath them. I'd rather ship something predictable and easy to operate than something clever, and most of what I've learned the hard way ends up on the blog.
+I've been building backend systems since 2012 - APIs, event-driven services, and the unglamorous plumbing underneath them. I'd rather ship something predictable and easy to operate than something clever, and most of what I've learned the hard way ends up on the blog.
 
 ## What I work on
 
-- Backend services in Kotlin and Java — APIs, event-driven architectures, data pipelines
+- Backend services in Kotlin and Java - APIs, event-driven architectures, data pipelines
 - Cloud and platform: AWS, Kubernetes, Helm, Terraform, CI/CD
-- Observability, performance, reliability — dashboards, alerts and traces are part of "done"
+- Observability, performance, reliability - dashboards, alerts and traces are part of "done"
 
 ## Writing
 
